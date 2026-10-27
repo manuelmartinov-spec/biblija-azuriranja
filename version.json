@@ -1,11 +1,21 @@
 {
- "version": "2.2",
- "code": 220,
+ "version": "2.3",
+ "code": 230,
  "date": "27.10.2026.",
  "apk": "https://github.com/manuelmartinov-spec/Biblija/raw/main/android/Biblija.apk",
  "notes": [
-  "Дугме „Назад“ на телефону увек враћа на „Читај“, а следећи притисак затвара апликацију.",
-  "Нова картица у Маркерима: „Проповеди“. Упишите датум, ко је проповедао и шта је читао; места из Библије се отварају додиром.",
-  "Проповеди су и у резервној копији."
- ]
+  "Цела апликација може да буде на енглеском: Подешавања → Језик апликације.",
+  "Дугме „Назад“ враћа кроз главе и књиге које сте отварали, до оне од које сте почели, па затвара апликацију. Апликација се отвара тамо где сте стали.",
+  "Ажурирање унутар апликације: „Ажурирај сада“ и апликација сама преузме и инсталира нову верзију.",
+  "Проповеди: бирају се само недеље, ново поље „Место“, предлози имена и места док пишете, и предлози књига и глава (довољно је „лука“)."
+ ],
+ "notes_en": [
+  "The whole app can be in English: Settings → App language.",
+  "The “Back” button steps back through the chapters and books you opened, to the one you started on, then closes the app. The app opens where you left off.",
+  "Update inside the app: tap “Update now” and the app downloads and installs the new version by itself.",
+  "Sermons: only Sundays to choose from, a new “Place” field, name and place suggestions while you type, and book and chapter suggestions (“luke” is enough)."
+ ],
+ "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-2.3.bin",
+ "sha256": "3fc52ce3b75804f256b21bbcf4377c62f10aabef72d0748032083a8280e7b750",
+ "size": 14357807
 }
