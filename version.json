@@ -1,21 +1,19 @@
 {
- "version": "2.3",
- "code": 230,
+ "version": "2.4",
+ "code": 240,
  "date": "27.10.2026.",
  "apk": "https://github.com/manuelmartinov-spec/Biblija/raw/main/android/Biblija.apk",
  "notes": [
-  "Цела апликација може да буде на енглеском: Подешавања → Језик апликације.",
-  "Дугме „Назад“ враћа кроз главе и књиге које сте отварали, до оне од које сте почели, па затвара апликацију. Апликација се отвара тамо где сте стали.",
-  "Ажурирање унутар апликације: „Ажурирај сада“ и апликација сама преузме и инсталира нову верзију.",
-  "Проповеди: бирају се само недеље, ново поље „Место“, предлози имена и места док пишете, и предлози књига и глава (довољно је „лука“)."
+  "Мапе: дугме „Мапа“ у свакој глави – места из те главе и књиге, и путовања (Аврам, излазак из Египта, Исус, Павлова путовања, пут у Рим, ропство, седам цркава). Ради без интернета.",
+  "Порука при отварању: стих дана, нови стих сваки пут или ваша порука. Подешава се или искључује у Подешавањима.",
+  "Маркери → „Службе“: проповед са појањем и читањем, и још две особе са појањем (број и стих)."
  ],
  "notes_en": [
-  "The whole app can be in English: Settings → App language.",
-  "The “Back” button steps back through the chapters and books you opened, to the one you started on, then closes the app. The app opens where you left off.",
-  "Update inside the app: tap “Update now” and the app downloads and installs the new version by itself.",
-  "Sermons: only Sundays to choose from, a new “Place” field, name and place suggestions while you type, and book and chapter suggestions (“luke” is enough)."
+  "Maps: a “Map” button in every chapter – places from that chapter and book, and journeys (Abraham, the Exodus, Jesus, Paul's journeys, the voyage to Rome, the exile, the seven churches). Works without internet.",
+  "Message on opening: verse of the day, a new verse every time, or your own message. Change or turn it off in Settings.",
+  "Markers → “Services”: the sermon with hymn and reading, and two more people with their hymns (number and verse)."
  ],
- "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-2.3.bin",
- "sha256": "3fc52ce3b75804f256b21bbcf4377c62f10aabef72d0748032083a8280e7b750",
- "size": 14357807
+ "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-2.4.bin",
+ "sha256": "937f5d8f19f2f7032b76512092f5d241f2e80534124dc59a1604c1bccb54b300",
+ "size": 14447919
 }
