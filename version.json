@@ -1,28 +1,22 @@
 {
- "version": "2.7",
- "code": 270,
+ "version": "2.8",
+ "code": 280,
  "date": "27.10.2026.",
  "apk": "https://github.com/manuelmartinov-spec/Biblija/raw/main/android/Biblija.apk",
  "notes": [
-  "Нов распоред картица: Читај, Тражи, Белешке, Маркери, Речник.",
-  "Белешке и службе су заједно под „Белешке“; обојени и омиљени стихови заједно под „Маркери“.",
-  "Речник има своју картицу: тражите реч по значењу (љубав), по изворној речи или транскрипцији (agape) или по Стронговом броју (G26), и отворите њено значење.",
-  "Апликација се зове „Свето писмо“ и има нову иконицу (видеће се после ручне инсталације овог APK-а)."
+  "Нова иконица: отворена књига са црвеном траком (види се после ручне инсталације овог APK-а)."
  ],
  "notes_en": [
-  "New tab order: Read, Search, Notes, Markers, Dictionary.",
-  "Notes and services are together under “Notes”; colored and favorite verses together under “Markers”.",
-  "The dictionary has its own tab: look up a word by meaning (love), by the original word or its transliteration (agape), or by Strong's number (G26), and open its meaning.",
-  "The app is now called “Свето писмо” (Holy Bible) and has a new icon (shown after installing this APK by hand)."
+  "New icon: an open book with a red ribbon (shown after installing this APK by hand)."
  ],
- "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-2.7.bin",
- "sha256": "49fe41ffbf8ff2acc76def2a9899e9712b93e51f527429274a363967a565e891",
- "size": 21272216,
+ "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-2.8.bin",
+ "sha256": "589350f0916a55666862e361e84a0e40082d75a444edff23e04985a3e829dd6e",
+ "size": 21354136,
  "web": {
-  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-2.7.bin",
-  "sha256": "3f4e38f15504bd91f13dae9ee43c4b58e2080a94a1cac0f15d6536af6d1da75e",
-  "size": 21072405,
-  "code": 270,
+  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-2.8.bin",
+  "sha256": "1fc35e5a8a7bfb91b2f570799508384b03ae6efc80e5fbb9c6f11cb44c5a0ec5",
+  "size": 21072501,
+  "code": 280,
   "min_shell": 250
  }
 }
