@@ -1,24 +1,26 @@
 {
- "version": "2.5",
- "code": 250,
+ "version": "2.6",
+ "code": 260,
  "date": "27.10.2026.",
  "apk": "https://github.com/manuelmartinov-spec/Biblija/raw/main/android/Biblija.apk",
  "notes": [
-  "Ажурирања више не иду преко Android инсталације: „Ажурирај сада“ преузме нову верзију и апликација се одмах поново покрене – без упозорења и без дозвола.",
-  "Ова верзија се још једном инсталира ручно; следеће стижу саме."
+  "Речник оригиналних речи: додирните стих, па „Оригинал“ – хебрејски, арамејски или грчки текст реч по реч, са изговором и значењем; додир на реч отвара речник (Стронгов речник и кратак лексикон).",
+  "„Прикажи сва места“ показује све стихове са том речју; у претрази може да се упише и Стронгов број, нпр. H430 или G26.",
+  "Српска значења за 1.200 најчешћих речи (око 80% свих речи у тексту)."
  ],
  "notes_en": [
-  "Updates no longer go through Android installation: “Update now” downloads the new version and the app restarts right away – no warnings and no permissions.",
-  "This version is installed by hand one more time; the next ones arrive by themselves."
+  "Dictionary of original words: tap a verse, then “Original” – the Hebrew, Aramaic or Greek text word by word, with pronunciation and meaning; tap a word to open the dictionary (Strong's dictionary and a brief lexicon).",
+  "“Show every place” lists all verses with that word; you can also search for a Strong's number, e.g. H430 or G26.",
+  "Serbian meanings for the 1,200 most common words (about 80% of all words in the text)."
  ],
- "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-2.5.bin",
- "sha256": "07491dd4a257972d4e4476037c3540f6e6d1e1afdedab2869353172a0e787653",
- "size": 14447919,
+ "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-2.6.bin",
+ "sha256": "1e7cf7e3b07f296eac04b01e589b3857d5eb0cf25db43c46a55caf2d97ca739f",
+ "size": 21136687,
  "web": {
-  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-2.5.bin",
-  "sha256": "fafd36dc1f6b7f027dda5f51f93f4012efd5bbe638d773e4e3050b46b22fa4b4",
-  "size": 14380208,
-  "code": 250,
+  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-2.6.bin",
+  "sha256": "81c98423884c2f2d216992fee89e2feeab6261f24745cab6a29a98b0dae988e1",
+  "size": 21069626,
+  "code": 260,
   "min_shell": 250
  }
 }
