@@ -1,19 +1,24 @@
 {
- "version": "2.4",
- "code": 240,
+ "version": "2.5",
+ "code": 250,
  "date": "27.10.2026.",
  "apk": "https://github.com/manuelmartinov-spec/Biblija/raw/main/android/Biblija.apk",
  "notes": [
-  "Мапе: дугме „Мапа“ у свакој глави – места из те главе и књиге, и путовања (Аврам, излазак из Египта, Исус, Павлова путовања, пут у Рим, ропство, седам цркава). Ради без интернета.",
-  "Порука при отварању: стих дана, нови стих сваки пут или ваша порука. Подешава се или искључује у Подешавањима.",
-  "Маркери → „Службе“: проповед са појањем и читањем, и још две особе са појањем (број и стих)."
+  "Ажурирања више не иду преко Android инсталације: „Ажурирај сада“ преузме нову верзију и апликација се одмах поново покрене – без упозорења и без дозвола.",
+  "Ова верзија се још једном инсталира ручно; следеће стижу саме."
  ],
  "notes_en": [
-  "Maps: a “Map” button in every chapter – places from that chapter and book, and journeys (Abraham, the Exodus, Jesus, Paul's journeys, the voyage to Rome, the exile, the seven churches). Works without internet.",
-  "Message on opening: verse of the day, a new verse every time, or your own message. Change or turn it off in Settings.",
-  "Markers → “Services”: the sermon with hymn and reading, and two more people with their hymns (number and verse)."
+  "Updates no longer go through Android installation: “Update now” downloads the new version and the app restarts right away – no warnings and no permissions.",
+  "This version is installed by hand one more time; the next ones arrive by themselves."
  ],
- "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-2.4.bin",
- "sha256": "937f5d8f19f2f7032b76512092f5d241f2e80534124dc59a1604c1bccb54b300",
- "size": 14447919
+ "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-2.5.bin",
+ "sha256": "07491dd4a257972d4e4476037c3540f6e6d1e1afdedab2869353172a0e787653",
+ "size": 14447919,
+ "web": {
+  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-2.5.bin",
+  "sha256": "fafd36dc1f6b7f027dda5f51f93f4012efd5bbe638d773e4e3050b46b22fa4b4",
+  "size": 14380208,
+  "code": 250,
+  "min_shell": 250
+ }
 }
