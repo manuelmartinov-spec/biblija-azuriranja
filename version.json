@@ -1,28 +1,22 @@
 {
- "version": "2.9",
- "code": 290,
+ "version": "3.0",
+ "code": 300,
  "date": "28.10.2026.",
  "apk": "https://github.com/manuelmartinov-spec/Biblija/raw/main/android/Biblija.apk",
  "notes": [
-  "Планови читања: цела Библија за годину, Стари и Нови завет заједно, Макшејнов план, Нови завет за 90 дана, Псалми и Приче за месец и ваш план. Данашње читање стоји на врху главе, а глава прочитана до краја (или преслушана) сама се означи.",
-  "Звучна Библија: Нови српски превод који чита човек (Bible.is). Ради као музички плејер — и са угашеним екраном, дугмад у обавештењу, на закључаном екрану и на слушалицама, сама прелази на следећу главу, тајмер за спавање. Треба бесплатан кључ (Подешавања → Звучна Библија) и једном ручна инсталација овог APK-а.",
-  "Мапе: стрелице показују у ком правцу се ишло.",
-  "Речник: 7.200 речи већ има српско значење и објашњење (превод осталих је у току)."
+  "Тема „Светла“ сада ради и кад је телефон у тамном режиму, а горња и доња трака телефона прате изабрану тему (потребна је ручна инсталација овог APK-а)."
  ],
  "notes_en": [
-  "Reading plans: the whole Bible in a year, Old and New Testament together, the M'Cheyne plan, the New Testament in 90 days, Psalms and Proverbs in a month, and your own plan. Today's reading is at the top of the chapter, and a chapter read to the end (or listened to) is ticked off by itself.",
-  "Audio Bible: the New Serbian Translation read by a person (Bible.is). It works like a music player — also with the screen off, with buttons in the notification, on the lock screen and on headphones; it goes on to the next chapter by itself and has a sleep timer. Needs a free key (Settings → Audio Bible) and installing this APK by hand once.",
-  "Maps: arrows show the direction of each journey.",
-  "Dictionary: 7,200 words already have a Serbian meaning and explanation (the rest is being translated)."
+  "The “Light” theme now works also when the phone is in dark mode, and the phone's top and bottom bars follow the chosen theme (needs installing this APK by hand)."
  ],
- "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-2.9.bin",
- "sha256": "fe342b3e66ab5190499113ff545b2490482b5fa1aeceaf2835e8f98cc5543525",
+ "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-3.0.bin",
+ "sha256": "558c583a6c0ef04fdf16009ee714f466ff0456a3178a858d0075dec2692fd67d",
  "size": 21784286,
  "web": {
-  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-2.9.bin",
-  "sha256": "eb584607decb23610e33f0f7a3be33d887c565fc2fca29b377cb06bb2c08375a",
-  "size": 21492412,
-  "code": 290,
+  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-3.0.bin",
+  "sha256": "2c6c5d70fde0d5aab6ce8eb8defdff67a570f71d52f0d7f044f331846b171321",
+  "size": 21492865,
+  "code": 300,
   "min_shell": 250
  }
 }
