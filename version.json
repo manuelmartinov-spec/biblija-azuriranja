@@ -1,22 +1,24 @@
 {
- "version": "3.0",
- "code": 300,
- "date": "28.10.2026.",
+ "version": "3.1",
+ "code": 310,
+ "date": "29.10.2026.",
  "apk": "https://github.com/manuelmartinov-spec/Biblija/raw/main/android/Biblija.apk",
  "notes": [
-  "Тема „Светла“ сада ради и кад је телефон у тамном режиму, а горња и доња трака телефона прате изабрану тему (потребна је ручна инсталација овог APK-а)."
+  "Приватни преводи: можете додати NKJV или други превод који имате, из фајла превода (Подешавања → Приватни преводи → „Додај из фајла“). Превод остаје само на вашем телефону, и после ажурирања.",
+  "Речник: Египат се зове „Мисир (Египат)“, као код Даничића."
  ],
  "notes_en": [
-  "The “Light” theme now works also when the phone is in dark mode, and the phone's top and bottom bars follow the chosen theme (needs installing this APK by hand)."
+  "Private translations: you can add the NKJV or another translation you own from a translation file (Settings → Private translations → “Add from file”). It stays only on your phone, also after updates.",
+  "Dictionary: Egypt is called “Мисир (Египат)”, as in Daničić."
  ],
- "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-3.0.bin",
- "sha256": "558c583a6c0ef04fdf16009ee714f466ff0456a3178a858d0075dec2692fd67d",
+ "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-3.1.bin",
+ "sha256": "f9c475719bab9eaf0c2d2b3a639c9e48f1af3fe1460f98428109e98c0adda89a",
  "size": 21784286,
  "web": {
-  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-3.0.bin",
-  "sha256": "2c6c5d70fde0d5aab6ce8eb8defdff67a570f71d52f0d7f044f331846b171321",
-  "size": 21492865,
-  "code": 300,
+  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-3.1.bin",
+  "sha256": "46c1cad6bb909327e3bf58a484035a2baccb5c7f2538900e1d02f55104d76597",
+  "size": 21493822,
+  "code": 310,
   "min_shell": 250
  }
 }
