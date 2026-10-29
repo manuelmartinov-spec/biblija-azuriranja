@@ -1,24 +1,28 @@
 {
- "version": "3.1",
- "code": 310,
+ "version": "3.2",
+ "code": 320,
  "date": "29.10.2026.",
  "apk": "https://github.com/manuelmartinov-spec/Biblija/raw/main/android/Biblija.apk",
  "notes": [
-  "Приватни преводи: можете додати NKJV или други превод који имате, из фајла превода (Подешавања → Приватни преводи → „Додај из фајла“). Превод остаје само на вашем телефону, и после ажурирања.",
-  "Речник: Египат се зове „Мисир (Египат)“, као код Даничића."
+  "Време читања (Подешавања): колико сте данас, ове недеље и укупно читали, дани заредом и књиге које највише читате. Рачуна се само док је отворена картица „Читај“ и док читате, не у позадини.",
+  "Екипе (раније „Службе“): и за среду (једна особа), а у недељу до две екипе по три особе (дугме „+ Друга екипа за ову недељу“).",
+  "NKJV: фусноте (додирните мали број у стиху) и увод у сваку књигу (дугме на првој глави). Потребан је нови NKJV фајл.",
+  "Тема: ако „Светла“ и даље изгледа тамно, испод Теме пише шта треба урадити (једном ручно инсталирати нови APK)."
  ],
  "notes_en": [
-  "Private translations: you can add the NKJV or another translation you own from a translation file (Settings → Private translations → “Add from file”). It stays only on your phone, also after updates.",
-  "Dictionary: Egypt is called “Мисир (Египат)”, as in Daničić."
+  "Reading time (Settings): how much you read today, this week and in total, days in a row and the books you read most. It counts only while the Read tab is open and you are reading, not in the background.",
+  "Teams (formerly “Services”): also for Wednesday (one person), and on Sunday up to two teams of three (button “+ Second team for this Sunday”).",
+  "NKJV: footnotes (tap the small number in a verse) and an introduction to every book (button on the first chapter). The new NKJV file is needed.",
+  "Theme: if “Light” still looks dark, a note under Theme says what to do (install the new APK by hand once)."
  ],
- "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-3.1.bin",
- "sha256": "f9c475719bab9eaf0c2d2b3a639c9e48f1af3fe1460f98428109e98c0adda89a",
- "size": 21784286,
+ "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-3.2.bin",
+ "sha256": "046d8adde42dca906b39efcb1e1511c807bf9e903c5b227bb31b7eb6ed301215",
+ "size": 21792478,
  "web": {
-  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-3.1.bin",
-  "sha256": "46c1cad6bb909327e3bf58a484035a2baccb5c7f2538900e1d02f55104d76597",
-  "size": 21493822,
-  "code": 310,
+  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-3.2.bin",
+  "sha256": "c84e53dde8b8883f9b59e5d3e01e8c7f2c07cd2892ee652a16eb3ba2e978a1ec",
+  "size": 21501018,
+  "code": 320,
   "min_shell": 250
  }
 }
