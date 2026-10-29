@@ -1,28 +1,26 @@
 {
- "version": "3.2",
- "code": 320,
+ "version": "3.3",
+ "code": 330,
  "date": "29.10.2026.",
  "apk": "https://github.com/manuelmartinov-spec/Biblija/raw/main/android/Biblija.apk",
  "notes": [
-  "Време читања (Подешавања): колико сте данас, ове недеље и укупно читали, дани заредом и књиге које највише читате. Рачуна се само док је отворена картица „Читај“ и док читате, не у позадини.",
-  "Екипе (раније „Службе“): и за среду (једна особа), а у недељу до две екипе по три особе (дугме „+ Друга екипа за ову недељу“).",
-  "NKJV: фусноте (додирните мали број у стиху) и увод у сваку књигу (дугме на првој глави). Потребан је нови NKJV фајл.",
-  "Тема: ако „Светла“ и даље изгледа тамно, испод Теме пише шта треба урадити (једном ручно инсталирати нови APK)."
+  "Проучавање Светог писма (Подешавања): кључне речи у тексту су подвучене тачкицама; додирните реч и отвара се оригинална реч из тог стиха са значењем.",
+  "Подешавања: превод се бира у малом прозору (дугме „Промени“), а не из дуге листе.",
+  "Службе: опет пише „служба“ (у недељу „Служба 1“ и „Служба 2“)."
  ],
  "notes_en": [
-  "Reading time (Settings): how much you read today, this week and in total, days in a row and the books you read most. It counts only while the Read tab is open and you are reading, not in the background.",
-  "Teams (formerly “Services”): also for Wednesday (one person), and on Sunday up to two teams of three (button “+ Second team for this Sunday”).",
-  "NKJV: footnotes (tap the small number in a verse) and an introduction to every book (button on the first chapter). The new NKJV file is needed.",
-  "Theme: if “Light” still looks dark, a note under Theme says what to do (install the new APK by hand once)."
+  "Bible study (Settings): key words in the text get a dotted underline; tap a word to open the original word of that verse with its meaning.",
+  "Settings: the translation is chosen in a small window (button “Change”), not from a long list.",
+  "Services: it says “service” again (on Sunday “Service 1” and “Service 2”)."
  ],
- "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-3.2.bin",
- "sha256": "046d8adde42dca906b39efcb1e1511c807bf9e903c5b227bb31b7eb6ed301215",
- "size": 21792478,
+ "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-3.3.bin",
+ "sha256": "b5e21ca8b77333ee27b7901ef22d534e099f5576420c005ec68cedced8dcb400",
+ "size": 21808862,
  "web": {
-  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-3.2.bin",
-  "sha256": "c84e53dde8b8883f9b59e5d3e01e8c7f2c07cd2892ee652a16eb3ba2e978a1ec",
-  "size": 21501018,
-  "code": 320,
+  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-3.3.bin",
+  "sha256": "1bbef5832780131d4b4ab9e9eca14c86e0b4dd442178a44a738c776472b78d9a",
+  "size": 21514833,
+  "code": 330,
   "min_shell": 250
  }
 }
