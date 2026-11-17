@@ -1,26 +1,36 @@
 {
- "version": "3.3",
- "code": 330,
- "date": "29.10.2026.",
+ "version": "3.4",
+ "code": 340,
+ "date": "17.11.2026.",
  "apk": "https://github.com/manuelmartinov-spec/Biblija/raw/main/android/Biblija.apk",
  "notes": [
-  "Проучавање Светог писма (Подешавања): кључне речи у тексту су подвучене тачкицама; додирните реч и отвара се оригинална реч из тог стиха са значењем.",
-  "Подешавања: превод се бира у малом прозору (дугме „Промени“), а не из дуге листе.",
-  "Службе: опет пише „служба“ (у недељу „Служба 1“ и „Служба 2“)."
+  "Појанице: нова картица са појањима из „Нове харфе Сиона“ (1886) и претрагом по речи, наслову и броју. Број појања у Службама се може додирнути.",
+  "Појанице: већа/мања слова и „Цео екран“ (једна строфа преко целог екрана); види се када је појање последњи пут певано (и у Службама док уписујете број).",
+  "Појанице: испод неких строфа стоји сличан стих из Светог писма (означено да то није из појанице).",
+  "Упоредна јеванђеља: у Матеју, Марку, Луки и Јовану дугме „Упореди јеванђеља“ показује исти догађај у сва четири јеванђеља (209 догађаја, од рођења до вазнесења).",
+  "Речник: сада је цео на српском (свих 16.728 речи: значење, објашњење и како се преводи).",
+  "Енциклопедија имена (Речник): откуцајте име особе или места (нпр. Гетсиманија) — шта о томе каже Свето писмо, са стиховима које можете додирнути, а одвојено предање, историја и археологија са изворима; места на мапи.",
+  "Теме (Речник): тематски индекс са 5.319 тема на српском (вера, молитва, опроштење…), уз текст стихова у преводу који читате; у „Референце“ се види у којим темама се стих помиње.",
+  "Даничић: исправљене грешке у препису према изворном издању из 1865. (нпр. Лк 2:8, 4. Мој 36:9, Јн 9:37)."
  ],
  "notes_en": [
-  "Bible study (Settings): key words in the text get a dotted underline; tap a word to open the original word of that verse with its meaning.",
-  "Settings: the translation is chosen in a small window (button “Change”), not from a long list.",
-  "Services: it says “service” again (on Sunday “Service 1” and “Service 2”)."
+  "Hymns (Појанице): a new tab with the hymns from „Нова харфа Сиона“ (1886), searchable by word, title and number. Hymn numbers in Services can be tapped.",
+  "Hymns: larger/smaller text and “Full screen” (one stanza across the whole screen); shows when a hymn was last sung (also in Services while you type the number).",
+  "Hymns: under some stanzas a similar Bible verse is shown (marked as not part of the hymnal).",
+  "Gospel harmony: in Matthew, Mark, Luke and John the “Compare gospels” button shows the same event in all four gospels (209 events, from the birth to the ascension).",
+  "Dictionary: now fully in Serbian (all 16,728 words: meaning, explanation and how it is translated).",
+  "Encyclopedia of names (Dictionary): type the name of a person or place (e.g. Gethsemane) — what Scripture says, with tappable verses, and separately tradition, history and archaeology with sources; places on the map.",
+  "Topics (Dictionary): a topical index with 5,319 topics (faith, prayer, forgiveness…), with the verse text in the translation you are reading; “References” shows which topics mention the verse.",
+  "Daničić: transcription errors corrected according to the original 1865 edition (e.g. Luke 2:8, Num 36:9, John 9:37)."
  ],
- "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-3.3.bin",
- "sha256": "b5e21ca8b77333ee27b7901ef22d534e099f5576420c005ec68cedced8dcb400",
- "size": 21808862,
+ "pkg": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/biblija-3.4.bin",
+ "sha256": "f7e241e3d81e994023d5033bac7eaa32f00bea3b21225d39b6cac41781c5b3f3",
+ "size": 24970974,
  "web": {
-  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-3.3.bin",
-  "sha256": "1bbef5832780131d4b4ab9e9eca14c86e0b4dd442178a44a738c776472b78d9a",
-  "size": 21514833,
-  "code": 330,
+  "url": "https://raw.githubusercontent.com/manuelmartinov-spec/biblija-azuriranja/main/paket/web-3.4.bin",
+  "sha256": "097ccafd5de7f7812a56e638ae00b7e33ecd21940ea8c2b2f3794821dffa6e15",
+  "size": 24678361,
+  "code": 340,
   "min_shell": 250
  }
 }
